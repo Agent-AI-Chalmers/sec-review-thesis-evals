@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+.env
+*.log
+.patcheval-batch-manifests/
+.agent-workspace*
+evaluation_input/
+evaluation_output/
+PatchEval/
